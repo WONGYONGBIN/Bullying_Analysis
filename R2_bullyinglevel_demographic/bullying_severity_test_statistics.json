@@ -1,0 +1,26 @@
+{
+  "bullying_pattern_by_sex": {
+    "chi2": 684.87,
+    "p": 4.009581621410811e-148,
+    "dof": 3,
+    "cramers_v": 0.112
+  },
+  "bullying_pattern_by_age_group": {
+    "chi2": 34.47,
+    "p": 7.394273113996761e-05,
+    "dof": 9,
+    "cramers_v": 0.014
+  },
+  "loneliness_by_severity_kruskal": {
+    "H": 4604.4,
+    "p": 0.0
+  },
+  "missed_days_by_severity_kruskal": {
+    "H": 450.67,
+    "p": 2.3293945002112207e-97
+  },
+  "social_support_by_severity_anova": {
+    "F": 463.58,
+    "p": 1.6629893219901226e-297
+  }
+}
