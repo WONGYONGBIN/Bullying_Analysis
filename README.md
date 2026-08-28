@@ -1,7 +1,6 @@
 # Bullying Analysis — BTPR3203 Python for Data Science Project
 
-**Group 4: Student Bullying Analysis**
-BTPR3203 Python for Data Science — Project (30%), Semester B 2026
+**Group 4: Bullying Analysis**
 
 ## Group Members
 
@@ -89,6 +88,3 @@ Run all cells top to bottom. Each RQ's pipeline is self-contained (its own load 
 - **RQ2:** Bullying co-occurrence is common — 6.5% of students (about 1 in 6 bullied students) experience all three bullying forms (school, outside school, cyber) simultaneously. Severity — not sex or age — is the dominant correlate of poor mental well-being, school engagement, and social support outcomes.
 - **RQ3:** Regression and multi-model classification were used to test whether bullying exposure predicts anxiety, depression, and self-esteem outcomes; see `R3_mental_health_analysis/ML_Model_Results.csv` for the model comparison and `processed_bullying_mental_health_summary.csv` for outcome means by bullying-exposure category.
 
-## Course
-
-BTPR3203 Python for Data Science, Semester B 2026.
